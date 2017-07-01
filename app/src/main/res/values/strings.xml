@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency convetner</string>
+    <string name="convert">Конвертировать</string>
+    <string name="error_message">Не удалось загрузить данные</string>
+</resources>
